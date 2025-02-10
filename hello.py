@@ -1,2 +1,2 @@
 #first shit 
-print ("hello world!")
+print ("Hello world!")
